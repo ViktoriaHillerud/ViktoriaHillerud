@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there!
 🔭 I’m working on expanding my tech stack, even more!<br>👯 I’m looking for a workplace to create and develop<br>🌱 I’m currently learning .NET and ASP.NET -So far, I love it!<br>💬 Ask me about music, code, coffee or cats!<br>⚡ Fun fact about me: I used to do standup, but don't like situp 
 
 
